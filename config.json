@@ -1,0 +1,21 @@
+{
+    "wake_word": "jarvis",
+    "lang": "auto",
+    "stt": {
+      "vosk_model_path_en": "models/vosk-model-small-en-us-0.15",
+      "vosk_model_path_hi": "models/vosk-model-small-hi-0.22"
+    },
+    "tts": {
+      "provider": "pyttsx3",
+      "coqui_voice_en": "tts_models/en/ljspeech/tacotron2-DDC",
+      "coqui_voice_hi": "tts_models/hi/bhashini/tacotron2-DDC"
+    },
+    "encryption_key": "Jarvis_27032007_harsh_jangra_on_25_september",
+    "openai_api_key": "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",
+    "openweather_api_key": "f6cbea26b568d924aff3dd5e284f2e30",
+    "newsapi_key": "0fcdbfc008dd4d58b5a15a119130c361",
+    "spotify_client_id": "a93944e0d4f24221a525e19b5048cb93",
+    "spotify_client_secret": "78f00e8f25534d8aa880cf42033e24b0",
+    "http_bridge_port": 8080
+  }
+  

@@ -1,0 +1,13 @@
+vosk
+pyttsx3
+coqui-tts X
+pyaudio
+SpeechRecognition
+Flask
+cryptography
+spotipy
+yt-dlp
+python-dotenv
+requests
+mpv
+tk
