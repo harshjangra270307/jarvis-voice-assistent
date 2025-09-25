@@ -13,3 +13,4 @@ def test_intent_parser_hindi():
     intent, args = ie.parse(text, 'hi')
     assert intent == "call"
     assert "मोहन" in args[0]
+
